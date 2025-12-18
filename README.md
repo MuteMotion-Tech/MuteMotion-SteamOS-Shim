@@ -12,7 +12,7 @@ The Shim operates as a platform-specific "Body," responsible for hardware-level 
 * **Data Persistence:** Relational configuration management using `SQLite` in WAL mode for concurrent access.
 
 ## Academic Validation
-This specific repository and its associated documentation were developed as a technical proof-of-concept for the **Universidade Lusófona**.
+This specific repository and its associated documentation were developed as a technical proof-of-concept for **Universidade Lusófona do Porto**.
 
 * **Lead Implementation:** Adriano N. (a22307762@alunos.ulht.pt)
 * **Institutional Supervision:** Prof. José Braga de Vasconcelos

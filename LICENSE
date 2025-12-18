@@ -1,6 +1,6 @@
-MIT License
+# MIT License
 
-Copyright (c) 2025 MuteMotion Tech
+Copyright (c) 2024-2025 Adriano Neto (a22307762)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,16 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+### IMPORTANT NOTICE: SCOPE OF LICENSE
+
+This MIT License applies EXCLUSIVELY to the source code contained within the 
+MuteMotion-SteamOS-Shim repository, developed for academic validation purposes 
+at Universidade Lusófona.
+
+The MuteMotion Core Engine algorithms, binaries, and mathematical transformation 
+logic are PROPRIETARY ASSETS of MuteMotion Tech / Adriano Neto and are NOT 
+governed by this license. Access to the Core Engine is restricted and requires 
+separate licensing.

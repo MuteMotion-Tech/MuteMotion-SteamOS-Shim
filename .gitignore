@@ -1,0 +1,23 @@
+# MuteMotion Tech - Proprietary Asset Protection
+# Previne a inclusão acidental de ficheiros do Core Engine no repositório público
+
+# Binários e bibliotecas do Core Engine (External Dependencies)
+libs/mutemotion-core.lib
+libs/mutemotion-core.a
+libs/mutemotion-core.so
+
+# Ficheiros de cabeçalho privados (manter apenas a interface pública)
+src/core_internal/
+*.private.h
+
+# Artefactos de compilação C++ e Linux
+build/
+bin/
+obj/
+*.o
+*.log
+
+# Ficheiros de sistema e ambiente
+.env
+*.key
+.DS_Store
